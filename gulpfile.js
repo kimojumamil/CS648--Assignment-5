@@ -9,5 +9,3 @@ function css() {
 exports.default = () =>{
     watch('src/*.scss', css);
 }
-
-//exports.default = css;

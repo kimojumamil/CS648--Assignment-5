@@ -1,0 +1,11 @@
+$font-stack: 'Roboto', sans-serif;
+$primary-color: #E65C43;
+$secondary-color: #666;
+$background-color: #FFF;
+$greybar-color: #F5F6F6;
+$footer-background-color: #30353D;  // Make sure this is defined
+$bg-image: '../../images/bg.gif';
+$logo-image: '../../images/logo.png';
+$devices-image: '../../images/devices.png';
+$social-media-icon: '../../images/social-media.png';
+$base-padding: 10px; // Add this to resolve undefined variable errors
